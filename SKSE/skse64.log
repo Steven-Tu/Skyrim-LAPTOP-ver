@@ -1,4 +1,4 @@
-SKSE64 runtime: initialize (version = 2.1.2 010613E0 01D87D20CBD25A94, os = 6.2 (9200))
+SKSE64 runtime: initialize (version = 2.1.2 010613E0 01D87D211C862AA0, os = 6.2 (9200))
 imagebase = 00007FF72D110000
 reloc mgr imagebase = 00007FF72D110000
 config path = D:\The Elder Scrolls V Skyrim Special Edition COPY\Data\SKSE\skse.ini
