@@ -1,0 +1,11 @@
+SKSE64 runtime: initialize (version = 2.1.2 010613E0 01D87BE16DE045BA, os = 6.2 (9200))
+imagebase = 00007FF7FA070000
+reloc mgr imagebase = 00007FF7FA070000
+config path = E:\The Elder Scrolls V Skyrim Special Edition\Data\SKSE\skse.ini
+plugin directory = E:\The Elder Scrolls V Skyrim Special Edition\Data\SKSE\Plugins\
+scanning plugin directory E:\The Elder Scrolls V Skyrim Special Edition\Data\SKSE\Plugins\
+dispatch message (0) to plugin listeners
+no listeners registered
+dispatch message (1) to plugin listeners
+no listeners registered
+init complete
