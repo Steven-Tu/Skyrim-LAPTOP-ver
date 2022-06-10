@@ -1,9 +1,9 @@
-SKSE64 runtime: initialize (version = 2.1.2 010613E0 01D87D1AAE0E12E1, os = 6.2 (9200))
-imagebase = 00007FF614DB0000
-reloc mgr imagebase = 00007FF614DB0000
-config path = D:\The Elder Scrolls V Skyrim Special Edition\Data\SKSE\skse.ini
-plugin directory = D:\The Elder Scrolls V Skyrim Special Edition\Data\SKSE\Plugins\
-scanning plugin directory D:\The Elder Scrolls V Skyrim Special Edition\Data\SKSE\Plugins\
+SKSE64 runtime: initialize (version = 2.1.2 010613E0 01D87D20CBD25A94, os = 6.2 (9200))
+imagebase = 00007FF72D110000
+reloc mgr imagebase = 00007FF72D110000
+config path = D:\The Elder Scrolls V Skyrim Special Edition COPY\Data\SKSE\skse.ini
+plugin directory = D:\The Elder Scrolls V Skyrim Special Edition COPY\Data\SKSE\Plugins\
+scanning plugin directory D:\The Elder Scrolls V Skyrim Special Edition COPY\Data\SKSE\Plugins\
 checking plugin ConsoleUtilSSE.dll
 loading plugin "ConsoleUtilSSE"
 registering plugin listener for SKSE at 1 of 3
@@ -19,16 +19,7 @@ hooked dinput
 dispatch message (6) to plugin listeners
 sending message type 6 to plugin 1
 dispatched message.
+Reading translations from Interface\Translations\SkyUI_SE_ENGLISH.txt...
 dispatch message (8) to plugin listeners
 sending message type 8 to plugin 1
 dispatched message.
-save name is Save7_F0AD59CB_1_4D722E205069636B6C65_Tamriel_000104_20220610222348_1_1
-full save path: C:\Users\17142\Documents\My Games\Skyrim Special Edition\Saves\\Save7_F0AD59CB_1_4D722E205069636B6C65_Tamriel_000104_20220610222348_1_1.skse
-dispatch message (2) to plugin listeners
-sending message type 2 to plugin 1
-dispatched message.
-dispatch message (3) to plugin listeners
-sending message type 3 to plugin 1
-dispatched message.
-cleared save path
-GetSKSEVersion_Execute
