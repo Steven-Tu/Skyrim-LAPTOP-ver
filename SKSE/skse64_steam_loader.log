@@ -1,11 +1,11 @@
-skse64 loader 02010020 (steam) 01D87D211C81746D 6.2 (9200)
-loader base addr = 00007FFC654E0000
-exe base addr = 00007FF72D110000
-found iat at 00007FF72E713D48
-original thunk 00007FFCBB003FF0
+skse64 loader 02010020 (steam) 01D87D7985B6E7F9 6.2 (9200)
+loader base addr = 00007FFBE5630000
+exe base addr = 00007FF6389C0000
+found iat at 00007FF639FC3D48
+original thunk 00007FFBFA023FF0
 patched iat
-HookMain: thread = 6072 retaddr = 00007FF72E5861FA
-runtimePath = D:\The Elder Scrolls V Skyrim Special Edition COPY\SkyrimSE.exe
+HookMain: thread = 9036 retaddr = 00007FF639E361FA
+runtimePath = C:\Games\The Elder Scrolls V Skyrim Special Edition\SkyrimSE.exe
 dwSignature = FEEF04BD
 dwStrucVersion = 00010000
 dwFileVersionMS = 00010006
@@ -23,4 +23,4 @@ productVersionStr = 1.6.318.0
 version = 00010006013E0000
 product name = TESV: Skyrim
 steam exe
-dll = D:\The Elder Scrolls V Skyrim Special Edition COPY\\skse64_1_6_318.dll
+dll = C:\Games\The Elder Scrolls V Skyrim Special Edition\\skse64_1_6_318.dll
