@@ -1,11 +1,17 @@
-SKSE64 runtime: initialize (version = 2.1.2 010613E0 01D87BE16DE045BA, os = 6.2 (9200))
-imagebase = 00007FF7FA070000
-reloc mgr imagebase = 00007FF7FA070000
-config path = E:\The Elder Scrolls V Skyrim Special Edition\Data\SKSE\skse.ini
-plugin directory = E:\The Elder Scrolls V Skyrim Special Edition\Data\SKSE\Plugins\
-scanning plugin directory E:\The Elder Scrolls V Skyrim Special Edition\Data\SKSE\Plugins\
+SKSE64 runtime: initialize (version = 2.1.2 010613E0 01D87F022591B6C5, os = 6.2 (9200))
+imagebase = 00007FF662840000
+reloc mgr imagebase = 00007FF662840000
+config path = C:\Games\The Elder Scrolls V Skyrim Special Edition\Data\SKSE\skse.ini
+plugin directory = C:\Games\The Elder Scrolls V Skyrim Special Edition\Data\SKSE\Plugins\
+scanning plugin directory C:\Games\The Elder Scrolls V Skyrim Special Edition\Data\SKSE\Plugins\
+checking plugin ConsoleUtilSSE.dll
+loading plugin "ConsoleUtilSSE"
+registering plugin listener for SKSE at 1 of 3
+plugin ConsoleUtilSSE.dll (00000001 ConsoleUtilSSE 01030020) loaded correctly (handle 1)
 dispatch message (0) to plugin listeners
-no listeners registered
+sending message type 0 to plugin 1
+dispatched message.
 dispatch message (1) to plugin listeners
-no listeners registered
+sending message type 1 to plugin 1
+dispatched message.
 init complete
